@@ -1,0 +1,7 @@
+# dsh-plugin-pstd · 插件命名铁门 N1–N8 与 R006 十项审查员（含 P1–P5 模式化交付生成）
+# 宿主级插件行：随 profile 启动常驻（R006 ① 第 2 项）
+# id 必须等于 slug，name 必须等于 package.json name（PSTD N3）——漂移即审查不通过。
+- insert:
+    - id: pstd
+      name: dsh-plugin-pstd
+      config: {}
