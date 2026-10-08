@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-pstd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "插件命名铁门 N1–N8 与 R006 十项审查员（含 P1–P5 模式化交付生成）· 常驻插件包形态",
   "type": "module",
   "main": "lib/index.js",
